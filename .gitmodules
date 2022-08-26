@@ -1,0 +1,3 @@
+[submodule "src/Api.Lib"]
+	path = src/Api.Lib
+	url = ../Api.Lib.git
